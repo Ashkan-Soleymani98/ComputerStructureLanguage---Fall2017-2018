@@ -1,10 +1,10 @@
 # ComputerStructureLanguage---Fall2017-2018 
 Computer Structure and Language <br />
-Undergraduate Course (Fall 2017-2018) <br /> 
-Sharif University of Technology <br />  
-Computer Engineering Department <br />  
-Instructor: Prof. Hossein Asadi <br /> 
-Practical Assignments and Course Projects <br /> 
+Undergraduate Course (Fall 2017-2018) <br />
+Sharif University of Technology <br />
+Computer Engineering Department <br />
+Instructor: Prof. Hossein Asadi <br />
+Practical Assignments and Course Projects <br />
 
 
 Assignments: <br /> 
